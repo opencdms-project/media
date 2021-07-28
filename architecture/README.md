@@ -4,5 +4,5 @@ Files that are no longer in use can be removed but will remain in the repository
 
 | filename | usage |
 |----------|-------|
-| pyopencdms-architecture-1.0.png | pyopencdms/README.md |
-| pyopencdms-dependencies-0.1.png | pyopencdms/README.md |
+| opencdms-data-layer-1.0.png | pyopencdms/README.md |
+| pyopencdms-architecture-0.2.png | pyopencdms/README.md |
